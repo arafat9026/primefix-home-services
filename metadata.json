@@ -1,0 +1,6 @@
+{
+  "name": "PrimeFix Home Services",
+  "description": "Portfolio demonstration website for PrimeFix Home Services — showcasing residential repairs, plumbing, electrical, HVAC, roofing, and remodeling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
